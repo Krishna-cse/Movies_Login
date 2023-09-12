@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="email" />
+    <string name="login" />
+    <string name="register" />
+    <string name="ClickToLogin" />
+</resources>
